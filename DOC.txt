@@ -1,0 +1,8 @@
+Program symulujący bramkę otwieraną poprzez wrzucenie monet o zadanej łącznej wartości.
+
+Aby uruchomić program należy wykonać polecenie:
+python bramka.py
+
+Program działa w nieskończoność, wielokrotnie otwierając i zamykając bramkę.
+
+Program jest obecnie w fazie testów.
